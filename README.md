@@ -26,7 +26,7 @@
 I’m building a growing cybersecurity home lab to explore hands-on security concepts and tools.
 
 **Featured Projects:**
-- 🔍 [Home Lab: Nmap Network Scanning](https://gitlab.com/your-repo)
+- 🔍 Home Lab: Nmap Network Scanning
 - 🔐 pfSense Firewall Configuration and VPN Setup
 - 🎯 Vulnerability Scanning with Nessus
 - 🚫 Pi-hole for DNS Filtering and Ad Blocking
